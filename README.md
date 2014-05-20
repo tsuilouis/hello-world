@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-My first repository (a test)
+My first repository for testing
+
+This is a line to show that the README has been edited.
